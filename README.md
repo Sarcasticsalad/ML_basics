@@ -1,6 +1,6 @@
-## End to End Machine Learning Project
+# End to End Machine Learning Project
 
-# To create and activate anaconda environment 
+## To create and activate anaconda environment 
 
 create -p Environment_Name python==(version) -y
 
